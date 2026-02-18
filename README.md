@@ -6,12 +6,11 @@ When a subtask is created, it will inherit tags from:
 2. the first existing subtask (if present).
 
 ## Installation
-
-1. [Download](https://github.com/rfoxinter/tag-inherit/archive/refs/heads/master.zip) the github repository as <samp>ZIP</samp>
+1. Download and compress the files of this repository into a <samp>ZIP</samp> file
 2. Open Super Productivity
 3. Go to Settings → Plugins
 4. Click "Choose Plugin File"
-5. Select the <samp>master.zip</samp> file
+5. Select the created <samp>ZIP</samp> file
 6. The plugin will be activated automatically
 
 ## Notes
