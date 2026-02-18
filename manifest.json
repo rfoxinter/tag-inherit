@@ -1,0 +1,18 @@
+{
+  "id": "tag-inherit-subtasks",
+  "name": "Tag Inherit",
+  "version": "1.0.0",
+  "manifestVersion": 1,
+  "minSupVersion": "14.0.0",
+  "description": "Automatically copies parent task tags to newly created or existing subtasks.",
+  "hooks": ["taskComplete", "taskUpdate", "taskDelete", "currentTaskChange"],
+  "permissions": [
+    "getTasks",
+    "updateTask",
+    "getAllTags",
+    "addTag"
+  ],
+  "iFrame": false,
+  "sidePanel": false,
+  "icon": "icon.svg"
+}
